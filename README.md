@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Rishav Raj Thakur
+**CSE Student | Aspiring QA Engineer | Software Testing Enthusiast**
+
+Email Me 👉 ✉️ **rishavjnk1234@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Web development projects and software solutions
+- 🌱 **I’m currently learning:** Software Testing, QA, Web Development & new technologies
+- 👯 **I’m looking to collaborate on:** Open-source projects, web applications, and innovative tech projects
+- 🤔 **I’m looking for help with:** Building scalable and real-world software projects
+- 💬 **Ask me about:** Web Development, Software Testing, Tech & Collaboration
+- 📫 **How to reach me:** rishavjnk1234@gmail.com or https://rishavrajthakur.com.np/
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I Love Tech and Tech Loves Me ❤️💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishav.raj.thakur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishav-raj-thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishavjnk1234@gmail.com) 
@@ -8,6 +21,12 @@
 ![](https://github-readme-stats.shion.dev/api?username=RishavRajThakur&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RishavRajThakur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RishavRajThakur&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RishavRajThakur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
